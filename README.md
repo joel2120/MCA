@@ -1,6 +1,6 @@
 # MCA Project
 
-# By Joel John Thomas - 1MS18CS053
+# Joel John Thomas - 1MS18CS053
 
 # Program to compare Sequential and Parallel performances of KMP Algorithm by using MPI
 
